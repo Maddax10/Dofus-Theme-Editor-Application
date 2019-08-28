@@ -9,7 +9,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
 <h4>B) Lancer Config Editor</h4>
 <ol type="1">
   <img src="" alt="Image Config Editor Num1"/>
-  <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisi un dossier)</li>
+  <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisir un dossier)</li>
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
   &#x26A0; Le fichier doit <b>IMPÉRATIVEMENT</b> être un fichier ".txt" (il peut prendre n'importe quel nom) &#x26A0;
   <li>clic sur "Charger les images"</li>
