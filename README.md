@@ -22,7 +22,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
    <img src="https://zupimages.net/up/19/35/s4ev.jpg" alt="Image Config Editor Num2"/>
    <h6>Pour retirer du fichier config</h6>
    <li>Clic sur "1" (voir screen) pour sélectionner l'image</li>
-   <li>Clic sur "2" (voir screen) pour retirer au fichier config</li><br/>
+   <li>Clic sur "2" (voir screen) pour retirer au fichier config</li>
    <h6>Pour Ajouter dans le fichier config</h6>
    <li>Clic sur "3" (voir screen) pour sélectionner l'image</li>
    <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
