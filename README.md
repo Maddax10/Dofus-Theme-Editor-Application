@@ -1,3 +1,7 @@
+<h1>Sources</h1>
+https://github.com/Maddaks/Gestionnaire_fichier_config_Sources
+https://github.com/Maddaks/Dofus-Theme-Editor-Sources
+
 <h1>LE THÈME DE BASE NE PEUT ÊTRE MODIFIÉ</h1>
 Toutes les informations concernant le logiciel se trouvent ici : https://www.dofus.com/fr/forum/1578-themes-interfaces/2305620-2-52-dofus-theme-editor-modifier-importe-theme
 
