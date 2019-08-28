@@ -1,9 +1,14 @@
-<h2>LE THÈME DE BASE NE PEUT ÊTRE MODIFIÉ</h2>
+<h1>LE THÈME DE BASE NE PEUT ÊTRE MODIFIÉ</h1>
 Toutes les informations concernant le logiciel se trouvent ici : https://www.dofus.com/fr/forum/1578-themes-interfaces/2305620-2-52-dofus-theme-editor-modifier-importe-theme
-<h1>Comment modifier un thème</h1>
+
+<h2>Comment modifier un thème</h2>
+
 <h4>A) Installer un thème sur votre client Dofus</h4>
+
 <i>Si vous ne savez pas comment installer un thème dofus => https://www.dofus.com/fr/forum/1578-themes-interfaces/2185471-tutoriel-installer-nouveau-theme-interface</i>
+
 <h4>B) Lancer Config Editor</h4>
+
 <ol type="1">
    <img src="" alt="Image Config Editor Num1"/><br/><br/>
    <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisir un dossier)</li>
@@ -11,10 +16,14 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
    &#x26A0; Le fichier doit <b>IMPÉRATIVEMENT</b> être un fichier ".txt" (il peut prendre n'importe quel nom) &#x26A0;
    <li>clic sur "Charger les images"</li>
 </ol>
+
 <ol type="1">
-   <h6>Une nouvelle fenêtre apparait</h6>
+   <b>Une nouvelle fenêtre apparait</b>
    <img src="" alt="Image Config Editor Num2"/><br/><br/>
-   <b>Pour Ajouter dans le fichier config</b>
+   <h6>Pour retirer du fichier config</h6>
+   <li>Clic sur "1" (voir screen) pour sélectionner l'image</li>
+   <li>Clic sur "2" (voir screen) pour retirer au fichier config</li><br/>
+   <h6>Pour Ajouter dans le fichier config</h6>
    <li>Clic sur "3" (voir screen) pour sélectionner l'image</li>
    <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
 </ol>
