@@ -10,7 +10,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
 <h4>B) Lancer Config Editor</h4>
 
 <ol type="1">
-   <img src="" alt="Image Config Editor Num1"/><br/><br/>
+   <img src="https://zupimages.net/up/19/35/jl7z.jpg" alt="Image Config Editor Num1"/><br/><br/>
    <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisir un dossier)</li>
    <li>Choisir le fichier config à modifier (Racine de l'application)</li>
    &#x26A0; Le fichier doit <b>IMPÉRATIVEMENT</b> être un fichier ".txt" (il peut prendre n'importe quel nom) &#x26A0;
@@ -19,7 +19,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
 
 <ol type="1">
    <b>Une nouvelle fenêtre apparait</b>
-   <img src="" alt="Image Config Editor Num2"/>
+   <img src="https://zupimages.net/up/19/35/s4ev.jpg" alt="Image Config Editor Num2"/>
    <h6>Pour retirer du fichier config</h6>
    <li>Clic sur "1" (voir screen) pour sélectionner l'image</li>
    <li>Clic sur "2" (voir screen) pour retirer au fichier config</li><br/>
@@ -32,7 +32,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
 
 <h4>C) Lancer Dofus Thème Editor</h4>
 <ol type="1">
-   <img src="" alt="Image Config Editor Num2"/>
+   <img src="https://zupimages.net/up/19/35/nzlm.jpg" alt="Image Dofus Thème Editor"/>
   
    <li>Clic sur "1" (voir screen) pour sélectionner le fichier contenant les noms</li>
    <li>Clic sur "2" (voir screen) pour sélectionner le dossier du thème (Roaming -> Dofus -> ui -> themes -> Choisir un dossier)</li><br/>
