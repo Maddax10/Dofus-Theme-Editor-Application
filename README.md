@@ -13,4 +13,10 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
   <li>clic sur "Charger les images"</li>
 </ol>
-<b>    Une nouvelle fenêtre apparait</b>
+<h6>Une nouvelle fenêtre apparait</h6>
+<ol type="1">
+  <img src="" alt="Image Config Editor Num2"/>
+  <b>Pour Ajouter dans le fichier config</b>
+  <li>Clic sur "3" (voir screen) pour sélectionner l'image</li>
+  <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
+</ol>
