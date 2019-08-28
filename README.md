@@ -13,11 +13,13 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
   <li>clic sur "Charger les images"</li>
 </ol>
-<h6>Une nouvelle fenêtre apparait</h6>
+
 <ol type="1">
+  <h6>Une nouvelle fenêtre apparait</h6>
   <img src="" alt="Image Config Editor Num2"/>
   <b>Pour Ajouter dans le fichier config</b>
   <li>Clic sur "3" (voir screen) pour sélectionner l'image</li>
   <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
-  &#x26A0;Il est possible de créer une fichier config qui ne contient que les boutons (si on ne veut modifier que la couleur des boutons), les icones, ... <b>Il y a beaucoup de combinaisons possibles</b>&#x26A0;
 </ol>
+&#x26A0;Il est possible de créer une fichier config qui ne contient que les boutons (si on ne veut modifier que la couleur des boutons), les icones, ... <b>Il y a beaucoup de combinaisons possibles</b>&#x26A0;
+
