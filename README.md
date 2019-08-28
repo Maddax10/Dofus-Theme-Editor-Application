@@ -40,7 +40,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
    <li>Clic sur "4" (voir screen) pour avoir un aperçu de ce à quoi le thème va ressembler</li>
    <li>Clic sur "5" (voir screen) pour charger les images (si les images sont présentes dans le thème)</li>
    <li>Clic sur "6" (voir screen) pour modifier le thème</li>
-   &#x26A0; <b>Le logiciel va "freeze" pendant 20 - 30 secondes, c'est <u>normal</u>, il suffit d'attendre qu'il ai fini le traitement</b> &#x26A0;<br/>
+   &#x26A0; <b>Le logiciel va "freeze" pendant 20 - 30 secondes, c'est <u>normal</u>, il suffit d'attendre qu'il ai fini le traitement</b> &#x26A0;<br/><br/>
    <li><b>OPTIONNEL</b><i>Clic sur "7" (voir screen) si vous ne trouvez pas le dossier des thèmes, le bouton vous y amène. Il suffit d'entrer dans le dossier du thème à modifier et à copier/coller le chemin d'accès dans la textbox "Thème de base"</i></b></li>
 </ol>
 
