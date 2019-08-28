@@ -12,5 +12,5 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisi un dossier)</li>
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
   <li>clic sur "Charger les images"</li>
-  <u>Une nouvelle fenêtre apparait</u>
 </ol>
+<b>Une nouvelle fenêtre apparait</b>
