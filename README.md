@@ -11,6 +11,7 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <img src="" alt="Image Config Editor Num1"/>
   <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisi un dossier)</li>
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
+  &#x26A0; Le fichier doit <b>IMPÉRATIVEMENT</b> être un fichier ".txt" (il peut prendre n'importe quel nom) &#x26A0;
   <li>clic sur "Charger les images"</li>
 </ol>
 
@@ -21,5 +22,6 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <li>Clic sur "3" (voir screen) pour sélectionner l'image</li>
   <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
 </ol>
-&#x26A0;Il est possible de créer une fichier config qui ne contient que les boutons (si on ne veut modifier que la couleur des boutons), les icones, ... <b>Il y a beaucoup de combinaisons possibles</b>&#x26A0;
+&#x26A0; Il est possible de créer un fichier config qui ne contient que les boutons (si on ne veut modifier que la couleur des boutons), les icones, ... <b>Il y a beaucoup de combinaisons possibles</b> &#x26A0;
+
 
