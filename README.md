@@ -28,3 +28,4 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
    <li>Clic sur "4" (voir screen) pour ajouter au fichier config</li>
 </ol>
 &#x26A0; Il est possible de créer un fichier config qui ne contient que les boutons (si on ne veut modifier que la couleur des boutons), les icones, ... <b>Il y a beaucoup de combinaisons possibles</b> &#x26A0;
+ 
