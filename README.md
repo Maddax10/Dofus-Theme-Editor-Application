@@ -14,12 +14,12 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
    <li>Choisir le thème à modifier (Roaming -> Dofus -> ui -> themes -> Choisir un dossier)</li>
    <li>Choisir le fichier config à modifier (Racine de l'application)</li>
    &#x26A0; Le fichier doit <b>IMPÉRATIVEMENT</b> être un fichier ".txt" (il peut prendre n'importe quel nom) &#x26A0;
-   <li>clic sur "Charger les images"</li>
+   <li>clic sur "Charger les images"</li><br/><br/>
 </ol>
 
 <ol type="1">
    <b>Une nouvelle fenêtre apparait</b>
-   <img src="" alt="Image Config Editor Num2"/><br/><br/>
+   <img src="" alt="Image Config Editor Num2"/>
    <h6>Pour retirer du fichier config</h6>
    <li>Clic sur "1" (voir screen) pour sélectionner l'image</li>
    <li>Clic sur "2" (voir screen) pour retirer au fichier config</li><br/>
