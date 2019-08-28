@@ -13,4 +13,4 @@ Toutes les informations concernant le logiciel se trouvent ici : https://www.dof
   <li>Choisir le fichier config à modifier (Racine de l'application)</li>
   <li>clic sur "Charger les images"</li>
 </ol>
-<b>Une nouvelle fenêtre apparait</b>
+<b>   Une nouvelle fenêtre apparait</b>
